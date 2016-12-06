@@ -1,6 +1,7 @@
 <?php
  echo 'hi';
  echo 'further test';
+ echo 'now Im going to add third line';
 /**
  * Created by PhpStorm.
  * User: john
